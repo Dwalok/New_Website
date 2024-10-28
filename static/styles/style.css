@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    scroll-padding-top: 3rem;
+}
+:root{
+    --main-color: #ff9f0d;
+    --texte-color: #fff;
+    --autre-color: #212121;
+    --seconde-color: #9e9e9e;
+    --fond-color: #111111;
+
+    --big-police: 4.5rem;
+    --h2-police:2.6rem;
+    --p-police:1.1rem;
+}
